@@ -60,6 +60,9 @@
     <Compile Include="4 before\User.cs" />
     <Compile Include="5 before\Entity.cs" />
     <Compile Include="5 before\UserRepository.cs" />
+    <Compile Include="6 after\Rectangle.cs" />
+    <Compile Include="6 after\Shape.cs" />
+    <Compile Include="6 after\Square.cs" />
     <Compile Include="6 before\Program.cs" />
     <Compile Include="6 before\Rectangle.cs" />
     <Compile Include="6 before\Square.cs" />
