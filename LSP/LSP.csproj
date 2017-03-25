@@ -51,21 +51,20 @@
     <Compile Include="1 after\InternalCombustionCar.cs" />
     <Compile Include="1 after\NissanLeaf.cs" />
     <Compile Include="1 after\Program.cs" />
-    <Compile Include="2 before\LspTest.cs" />
-    <Compile Include="2 before\Program.cs" />
-    <Compile Include="2 before\Rectangle.cs" />
-    <Compile Include="2 before\Square.cs" />
     <Compile Include="3 before\FibonacciNumberGenerator.cs" />
     <Compile Include="3 before\FibonacciNumberGeneratoWithHistory.cs" />
     <Compile Include="4 before\User.cs" />
     <Compile Include="5 before\Entity.cs" />
     <Compile Include="5 before\UserRepository.cs" />
+    <Compile Include="6 before\AreaCalculator.cs" />
     <Compile Include="6 before\Program.cs" />
     <Compile Include="6 before\Rectangle.cs" />
     <Compile Include="6 before\Square.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="2 before\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
