@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOD", "LOD\LOD.csproj", "{B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATDD", "ATDD\ATDD.csproj", "{5BDCA16B-2125-4F0C-8710-E1DD2660EE0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP\OCP.csproj", "{E583DCF0-53BB-491F-82FD-C82C69D5AE58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5BDCA16B-2125-4F0C-8710-E1DD2660EE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BDCA16B-2125-4F0C-8710-E1DD2660EE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BDCA16B-2125-4F0C-8710-E1DD2660EE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E583DCF0-53BB-491F-82FD-C82C69D5AE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E583DCF0-53BB-491F-82FD-C82C69D5AE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E583DCF0-53BB-491F-82FD-C82C69D5AE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E583DCF0-53BB-491F-82FD-C82C69D5AE58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
